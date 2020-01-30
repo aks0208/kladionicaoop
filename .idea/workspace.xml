@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21bcb1b6-a01e-44b5-8005-4e24e510c1ed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../bin/php/php5.6.40" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UetgOUKp6hpzrmcI2pc429CMWG" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bosnian-realestate" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21bcb1b6-a01e-44b5-8005-4e24e510c1ed" name="Default Changelist" comment="" />
+      <created>1575728999015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575728999015</updated>
+      <workItem from="1575729000956" duration="11306000" />
+      <workItem from="1575983074450" duration="2375000" />
+      <workItem from="1576505932760" duration="1259000" />
+      <workItem from="1576705194851" duration="2006000" />
+      <workItem from="1577141533568" duration="5829000" />
+      <workItem from="1577536476662" duration="5101000" />
+      <workItem from="1578309372453" duration="595000" />
+      <workItem from="1578313334357" duration="963000" />
+      <workItem from="1580132539252" duration="1877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
