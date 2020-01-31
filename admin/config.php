@@ -3,7 +3,7 @@
 //DEFINE ("DBHOST", "127.0.0.1");
 //DEFINE ("DBUSER", "root");
 //DEFINE ("DBPASS", "");
-DEFINE ("APP_DIR", "c:/wamp64/www/betting/");
+DEFINE ("APP_DIR", "c:/wamp64/www/kladionicaoop/");
 
 
 spl_autoload_register(function ($class) {
