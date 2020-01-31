@@ -1,0 +1,100 @@
+.tdMatches {
+  cursor: context-menu;
+  color: white;
+}
+
+.tdOdds {
+	cursor:pointer; 
+	color:yellow;
+	font-weight:900;
+}
+
+.clearBtn {
+	background-color:transparent; 
+	border:none; 
+	color:red;
+}
+
+.clearBtn:hover {
+  background-color: transparent;
+  color: #8b0000;
+
+}
+
+.tableMatches {
+  cursor:pointer; 
+	color:yellow;
+}
+
+.tableTickets {
+  border: transparent;
+}
+
+   .tdOdds{
+        color:#313131;
+ 
+  font-weight: bold;
+  
+  -webkit-animation:colorchange 10s infinite alternate;
+
+
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+
+    color: blue;
+  }
+
+  10% {
+
+    color: #8e44ad;
+  }
+
+  20% {
+
+    color: #1abc9c;
+  }
+
+  30% {
+
+    color: #d35400;
+  }
+
+  40% {
+
+    color: yellow;
+  }
+
+  50% {
+
+    color: #34495e;
+  }
+
+  60% {
+
+    color: blue;
+  }
+
+  70% {
+
+    color: #2980b9;
+  }
+  80% {
+
+    color: #f1c40f;
+  }
+
+  90% {
+
+    color: #2980b9;
+  }
+
+  100% {
+
+    color: pink;
+  }
+}
+
+.offer { 
+ text-align: center; color:Yellow; font-family: sans-serif;font-size: 100px; text-shadow: 2px 2px 8px #FF0000; }
