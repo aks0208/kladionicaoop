@@ -10,16 +10,6 @@ if (isset($_POST['btnLogout'])) {
 }
 
 
-//$myArray = "";
-
-  //if (isset($_POST['arrBet'])) {
-  
- // }
-
-  
-  //var_dump($myArray);
-// proslijediti niz odabranih vrijednosti iz js u php.  
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -137,8 +127,6 @@ if (isset($_POST['btnLogout'])) {
       echo "<td style='border: transparent'><a href='mybet.php'>" .$bet->type."</a></td>";
       echo "<td style='border: transparent'><a href='mybet.php'>" .$odd ."</a></td>";
 
-      var_dump($bet);
-      
   }
 	
 
